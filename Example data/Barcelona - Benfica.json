@@ -1,0 +1,858 @@
+[
+  {
+    "category": "Player Shots On Target Over/Under",
+    "players": [
+      {
+        "playerName": "Alex Balde",
+        "over": {
+          "handicap": "0.5",
+          "odds": "6.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.11"
+        }
+      },
+      {
+        "playerName": "Dani Olmo",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        }
+      },
+      {
+        "playerName": "Ferran Torres",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        }
+      },
+      {
+        "playerName": "Frenkie de Jong",
+        "over": {
+          "handicap": "0.5",
+          "odds": "5.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.16"
+        }
+      },
+      {
+        "playerName": "Inigo Martinez",
+        "over": {
+          "handicap": "0.5",
+          "odds": "6.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.12"
+        }
+      },
+      {
+        "playerName": "Jules Kounde",
+        "over": {
+          "handicap": "0.5",
+          "odds": "4.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.18"
+        }
+      },
+      {
+        "playerName": "Lamine Yamal",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.37"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.53"
+        }
+      },
+      {
+        "playerName": "Pablo Martin Gavi",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.75"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.25"
+        }
+      },
+      {
+        "playerName": "Pedri",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.36"
+        }
+      },
+      {
+        "playerName": "Raphinha",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.10"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.66"
+        }
+      },
+      {
+        "playerName": "Robert Lewandowski",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Ronald Araujo",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.25"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.33"
+        }
+      },
+      {
+        "playerName": "Andrea Belotti",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Andreas Schjelderup",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.90"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.80"
+        }
+      },
+      {
+        "playerName": "Antonio Silva",
+        "over": {
+          "handicap": "0.5",
+          "odds": "8.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.083"
+        }
+      },
+      {
+        "playerName": "Armindo Bruma",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Vangelis Pavlidis",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.80"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.90"
+        }
+      },
+      {
+        "playerName": "Fredrik Aursnes",
+        "over": {
+          "handicap": "0.5",
+          "odds": "5.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.14"
+        }
+      },
+      {
+        "playerName": "Kerem Akturkoglu",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.37"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.53"
+        }
+      },
+      {
+        "playerName": "Leandro Barreiro",
+        "over": {
+          "handicap": "0.5",
+          "odds": "5.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.16"
+        }
+      },
+      {
+        "playerName": "Nicolas Otamendi",
+        "over": {
+          "handicap": "0.5",
+          "odds": "5.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.14"
+        }
+      },
+      {
+        "playerName": "Orkun Kokcu",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        }
+      },
+      {
+        "playerName": "Tomas Araujo",
+        "over": {
+          "handicap": "0.5",
+          "odds": "8.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.083"
+        }
+      },
+      {
+        "playerName": "Zeki Amdouni",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Player Shots Over/Under",
+    "players": [
+      {
+        "playerName": "Alex Balde",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.37"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.53"
+        }
+      },
+      {
+        "playerName": "Dani Olmo",
+        "over": {
+          "handicap": "2.5",
+          "odds": "1.80"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.90"
+        }
+      },
+      {
+        "playerName": "Ferran Torres",
+        "over": {
+          "handicap": "2.5",
+          "odds": "1.90"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.80"
+        }
+      },
+      {
+        "playerName": "Frenkie de Jong",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Inigo Martinez",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Jules Kounde",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.80"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.90"
+        }
+      },
+      {
+        "playerName": "Lamine Yamal",
+        "over": {
+          "handicap": "3.5",
+          "odds": "1.83"
+        },
+        "under": {
+          "handicap": "3.5",
+          "odds": "1.83"
+        }
+      },
+      {
+        "playerName": "Pablo Martin Gavi",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.72"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.00"
+        }
+      },
+      {
+        "playerName": "Pedri",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.53"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.37"
+        }
+      },
+      {
+        "playerName": "Raphinha",
+        "over": {
+          "handicap": "3.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "3.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Robert Lewandowski",
+        "over": {
+          "handicap": "3.5",
+          "odds": "1.83"
+        },
+        "under": {
+          "handicap": "3.5",
+          "odds": "1.83"
+        }
+      },
+      {
+        "playerName": "Ronald Araujo",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        }
+      },
+      {
+        "playerName": "Andrea Belotti",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.90"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.80"
+        }
+      },
+      {
+        "playerName": "Andreas Schjelderup",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.80"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.90"
+        }
+      },
+      {
+        "playerName": "Antonio Silva",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.25"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.33"
+        }
+      },
+      {
+        "playerName": "Vangelis Pavlidis",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.37"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.53"
+        }
+      },
+      {
+        "playerName": "Fredrik Aursnes",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.37"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.53"
+        }
+      },
+      {
+        "playerName": "Kerem Akturkoglu",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.37"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.53"
+        }
+      },
+      {
+        "playerName": "Leandro Barreiro",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        }
+      },
+      {
+        "playerName": "Nicolas Otamendi",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.10"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.66"
+        }
+      },
+      {
+        "playerName": "Orkun Kokcu",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.50"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.50"
+        }
+      },
+      {
+        "playerName": "Tomas Araujo",
+        "over": {
+          "handicap": "0.5",
+          "odds": "6.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.11"
+        }
+      },
+      {
+        "playerName": "Armindo Bruma",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Zeki Amdouni",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Player Fouls Over/Under",
+    "players": [
+      {
+        "playerName": "Dani Olmo",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.75"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.40"
+        }
+      },
+      {
+        "playerName": "Frenkie de Jong",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        }
+      },
+      {
+        "playerName": "Inigo Martinez",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.83"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.83"
+        }
+      },
+      {
+        "playerName": "Jules Kounde",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.61"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.20"
+        }
+      },
+      {
+        "playerName": "Lamine Yamal",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.57"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.25"
+        }
+      },
+      {
+        "playerName": "Robert Lewandowski",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.53"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.37"
+        }
+      },
+      {
+        "playerName": "Ronald Araujo",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        }
+      },
+      {
+        "playerName": "Antonio Silva",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.75"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.40"
+        }
+      },
+      {
+        "playerName": "Vangelis Pavlidis",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        }
+      },
+      {
+        "playerName": "Leandro Barreiro",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.66"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.10"
+        }
+      },
+      {
+        "playerName": "Nicolas Otamendi",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.61"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.20"
+        }
+      },
+      {
+        "playerName": "Orkun Kokcu",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.50"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.50"
+        }
+      },
+      {
+        "playerName": "Tomas Araujo",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.57"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.25"
+        }
+      },
+      {
+        "playerName": "Samuel Dahl",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Player Tackles Over/Under",
+    "players": [
+      {
+        "playerName": "Dani Olmo",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.10"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.66"
+        }
+      },
+      {
+        "playerName": "Frenkie de Jong",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.80"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.90"
+        }
+      },
+      {
+        "playerName": "Jules Kounde",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.53"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.37"
+        }
+      },
+      {
+        "playerName": "Lamine Yamal",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.10"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.66"
+        }
+      },
+      {
+        "playerName": "Pedri",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.53"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.37"
+        }
+      },
+      {
+        "playerName": "Raphinha",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.25"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.57"
+        }
+      },
+      {
+        "playerName": "Ronald Araujo",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.50"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.50"
+        }
+      },
+      {
+        "playerName": "Antonio Silva",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.66"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.10"
+        }
+      },
+      {
+        "playerName": "Fredrik Aursnes",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.72"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.00"
+        }
+      },
+      {
+        "playerName": "Leandro Barreiro",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Nicolas Otamendi",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.61"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.20"
+        }
+      },
+      {
+        "playerName": "Orkun Kokcu",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Tomas Araujo",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Samuel Dahl",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.53"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.37"
+        }
+      }
+    ]
+  }
+]

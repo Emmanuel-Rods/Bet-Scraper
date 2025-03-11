@@ -1,0 +1,1386 @@
+[
+  {
+    "category": "Player Shots On Target Over/Under",
+    "players": [
+      {
+        "playerName": "Aaron Cresswell",
+        "over": {
+          "handicap": "0.5",
+          "odds": "8.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.083"
+        }
+      },
+      {
+        "playerName": "Aaron Wan-Bissaka",
+        "over": {
+          "handicap": "0.5",
+          "odds": "6.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.12"
+        }
+      },
+      {
+        "playerName": "Barragan Carlos Soler",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        }
+      },
+      {
+        "playerName": "Lucas Paqueta",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        }
+      },
+      {
+        "playerName": "Emerson Palmieri",
+        "over": {
+          "handicap": "0.5",
+          "odds": "5.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.14"
+        }
+      },
+      {
+        "playerName": "Edson Alvarez",
+        "over": {
+          "handicap": "0.5",
+          "odds": "5.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.16"
+        }
+      },
+      {
+        "playerName": "Guido Rodriguez",
+        "over": {
+          "handicap": "0.5",
+          "odds": "5.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.14"
+        }
+      },
+      {
+        "playerName": "James Ward-Prowse",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.28"
+        }
+      },
+      {
+        "playerName": "Jarrod Bowen",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        }
+      },
+      {
+        "playerName": "Jean-Clair Todibo",
+        "over": {
+          "handicap": "0.5",
+          "odds": "9.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.071"
+        }
+      },
+      {
+        "playerName": "Konstantinos Mavropanos",
+        "over": {
+          "handicap": "0.5",
+          "odds": "5.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.16"
+        }
+      },
+      {
+        "playerName": "Max Kilman",
+        "over": {
+          "handicap": "0.5",
+          "odds": "7.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.10"
+        }
+      },
+      {
+        "playerName": "Mohammed Kudus",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.72"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.00"
+        }
+      },
+      {
+        "playerName": "Oliver Scarles",
+        "over": {
+          "handicap": "0.5",
+          "odds": "5.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.16"
+        }
+      },
+      {
+        "playerName": "Tomas Soucek",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.25"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.57"
+        }
+      },
+      {
+        "playerName": "Vladimir Coufal",
+        "over": {
+          "handicap": "0.5",
+          "odds": "8.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.083"
+        }
+      },
+      {
+        "playerName": "Alexander Isak",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.83"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.83"
+        }
+      },
+      {
+        "playerName": "Callum Wilson",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.62"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.44"
+        }
+      },
+      {
+        "playerName": "Dan Burn",
+        "over": {
+          "handicap": "0.5",
+          "odds": "4.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.18"
+        }
+      },
+      {
+        "playerName": "Joelinton",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.10"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.66"
+        }
+      },
+      {
+        "playerName": "Fabian Schar",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.36"
+        }
+      },
+      {
+        "playerName": "Harvey Barnes",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.57"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.25"
+        }
+      },
+      {
+        "playerName": "Jacob Murphy",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.83"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.83"
+        }
+      },
+      {
+        "playerName": "Joe Willock",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        }
+      },
+      {
+        "playerName": "Kieran Trippier",
+        "over": {
+          "handicap": "0.5",
+          "odds": "7.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.10"
+        }
+      },
+      {
+        "playerName": "Lewis Miley",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.36"
+        }
+      },
+      {
+        "playerName": "Matt Targett",
+        "over": {
+          "handicap": "0.5",
+          "odds": "9.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.071"
+        }
+      },
+      {
+        "playerName": "Bruno Guimaraes",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.75"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.40"
+        }
+      },
+      {
+        "playerName": "Sandro Tonali",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        }
+      },
+      {
+        "playerName": "Sean Longstaff",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.28"
+        }
+      },
+      {
+        "playerName": "Valentino Livramento",
+        "over": {
+          "handicap": "0.5",
+          "odds": "8.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.083"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Player Shots Over/Under",
+    "players": [
+      {
+        "playerName": "Aaron Cresswell",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.25"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.33"
+        }
+      },
+      {
+        "playerName": "Aaron Wan-Bissaka",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Barragan Carlos Soler",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Lucas Paqueta",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.83"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.83"
+        }
+      },
+      {
+        "playerName": "Emerson Palmieri",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Edson Alvarez",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.90"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.80"
+        }
+      },
+      {
+        "playerName": "Guido Rodriguez",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.10"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.66"
+        }
+      },
+      {
+        "playerName": "James Ward-Prowse",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.57"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.25"
+        }
+      },
+      {
+        "playerName": "Jarrod Bowen",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Jean-Clair Todibo",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.40"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.30"
+        }
+      },
+      {
+        "playerName": "Konstantinos Mavropanos",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.80"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.90"
+        }
+      },
+      {
+        "playerName": "Max Kilman",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.36"
+        }
+      },
+      {
+        "playerName": "Mohammed Kudus",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Oliver Scarles",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.37"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.53"
+        }
+      },
+      {
+        "playerName": "Tomas Soucek",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.90"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.80"
+        }
+      },
+      {
+        "playerName": "Vladimir Coufal",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        }
+      },
+      {
+        "playerName": "Alexander Isak",
+        "over": {
+          "handicap": "2.5",
+          "odds": "1.57"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "2.25"
+        }
+      },
+      {
+        "playerName": "Callum Wilson",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Dan Burn",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.83"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.83"
+        }
+      },
+      {
+        "playerName": "Joelinton",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.66"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.10"
+        }
+      },
+      {
+        "playerName": "Fabian Schar",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.53"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.37"
+        }
+      },
+      {
+        "playerName": "Harvey Barnes",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Jacob Murphy",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.72"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.00"
+        }
+      },
+      {
+        "playerName": "Joe Willock",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.62"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.44"
+        }
+      },
+      {
+        "playerName": "Kieran Trippier",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.25"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.33"
+        }
+      },
+      {
+        "playerName": "Lewis Miley",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        }
+      },
+      {
+        "playerName": "Matt Targett",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.75"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.25"
+        }
+      },
+      {
+        "playerName": "Bruno Guimaraes",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.37"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.53"
+        }
+      },
+      {
+        "playerName": "Sandro Tonali",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.40"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.75"
+        }
+      },
+      {
+        "playerName": "Sean Longstaff",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        }
+      },
+      {
+        "playerName": "Valentino Livramento",
+        "over": {
+          "handicap": "0.5",
+          "odds": "4.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.18"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Player Fouls Over/Under",
+    "players": [
+      {
+        "playerName": "Aaron Cresswell",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        }
+      },
+      {
+        "playerName": "Aaron Wan-Bissaka",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        }
+      },
+      {
+        "playerName": "Barragan Carlos Soler",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Lucas Paqueta",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.83"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.83"
+        }
+      },
+      {
+        "playerName": "Emerson Palmieri",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        }
+      },
+      {
+        "playerName": "Edson Alvarez",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Guido Rodriguez",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.25"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.57"
+        }
+      },
+      {
+        "playerName": "James Ward-Prowse",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.72"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.00"
+        }
+      },
+      {
+        "playerName": "Jarrod Bowen",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.57"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.25"
+        }
+      },
+      {
+        "playerName": "Jean-Clair Todibo",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.66"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.10"
+        }
+      },
+      {
+        "playerName": "Konstantinos Mavropanos",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.61"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.20"
+        }
+      },
+      {
+        "playerName": "Max Kilman",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Mohammed Kudus",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.25"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.57"
+        }
+      },
+      {
+        "playerName": "Oliver Scarles",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Tomas Soucek",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.90"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.80"
+        }
+      },
+      {
+        "playerName": "Vladimir Coufal",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.50"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.50"
+        }
+      },
+      {
+        "playerName": "Alexander Isak",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.57"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.25"
+        }
+      },
+      {
+        "playerName": "Callum Wilson",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        }
+      },
+      {
+        "playerName": "Dan Burn",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        }
+      },
+      {
+        "playerName": "Joelinton",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.53"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.37"
+        }
+      },
+      {
+        "playerName": "Fabian Schar",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        }
+      },
+      {
+        "playerName": "Harvey Barnes",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.90"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.80"
+        }
+      },
+      {
+        "playerName": "Jacob Murphy",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.75"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.40"
+        }
+      },
+      {
+        "playerName": "Joe Willock",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.62"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.44"
+        }
+      },
+      {
+        "playerName": "Kieran Trippier",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.44"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.62"
+        }
+      },
+      {
+        "playerName": "Lewis Miley",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.57"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.25"
+        }
+      },
+      {
+        "playerName": "Matt Targett",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.83"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.83"
+        }
+      },
+      {
+        "playerName": "Bruno Guimaraes",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Sandro Tonali",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Sean Longstaff",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.61"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.20"
+        }
+      },
+      {
+        "playerName": "Valentino Livramento",
+        "over": {
+          "handicap": "0.5",
+          "odds": "3.25"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.33"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Player Tackles Over/Under",
+    "players": [
+      {
+        "playerName": "Aaron Cresswell",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.40"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.75"
+        }
+      },
+      {
+        "playerName": "Aaron Wan-Bissaka",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.61"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.20"
+        }
+      },
+      {
+        "playerName": "Barragan Carlos Soler",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        }
+      },
+      {
+        "playerName": "Lucas Paqueta",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Emerson Palmieri",
+        "over": {
+          "handicap": "2.5",
+          "odds": "1.66"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "2.10"
+        }
+      },
+      {
+        "playerName": "Edson Alvarez",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.10"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.66"
+        }
+      },
+      {
+        "playerName": "Guido Rodriguez",
+        "over": {
+          "handicap": "2.5",
+          "odds": "1.83"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.83"
+        }
+      },
+      {
+        "playerName": "James Ward-Prowse",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.72"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.00"
+        }
+      },
+      {
+        "playerName": "Jarrod Bowen",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.37"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.53"
+        }
+      },
+      {
+        "playerName": "Jean-Clair Todibo",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.61"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.20"
+        }
+      },
+      {
+        "playerName": "Konstantinos Mavropanos",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.66"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.10"
+        }
+      },
+      {
+        "playerName": "Max Kilman",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.53"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.37"
+        }
+      },
+      {
+        "playerName": "Mohammed Kudus",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.57"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.25"
+        }
+      },
+      {
+        "playerName": "Oliver Scarles",
+        "over": {
+          "handicap": "2.5",
+          "odds": "1.61"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "2.20"
+        }
+      },
+      {
+        "playerName": "Tomas Soucek",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Vladimir Coufal",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.80"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.90"
+        }
+      },
+      {
+        "playerName": "Alexander Isak",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.25"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.57"
+        }
+      },
+      {
+        "playerName": "Callum Wilson",
+        "over": {
+          "handicap": "0.5",
+          "odds": "2.10"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "1.66"
+        }
+      },
+      {
+        "playerName": "Dan Burn",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Joelinton",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.10"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.66"
+        }
+      },
+      {
+        "playerName": "Fabian Schar",
+        "over": {
+          "handicap": "1.5",
+          "odds": "2.50"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "1.50"
+        }
+      },
+      {
+        "playerName": "Harvey Barnes",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.57"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.25"
+        }
+      },
+      {
+        "playerName": "Jacob Murphy",
+        "over": {
+          "handicap": "0.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "0.5",
+          "odds": "2.50"
+        }
+      },
+      {
+        "playerName": "Joe Willock",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.10"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.66"
+        }
+      },
+      {
+        "playerName": "Kieran Trippier",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.37"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.53"
+        }
+      },
+      {
+        "playerName": "Lewis Miley",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.20"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.61"
+        }
+      },
+      {
+        "playerName": "Matt Targett",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.50"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.50"
+        }
+      },
+      {
+        "playerName": "Bruno Guimaraes",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.00"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.72"
+        }
+      },
+      {
+        "playerName": "Sandro Tonali",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.57"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.25"
+        }
+      },
+      {
+        "playerName": "Sean Longstaff",
+        "over": {
+          "handicap": "2.5",
+          "odds": "2.10"
+        },
+        "under": {
+          "handicap": "2.5",
+          "odds": "1.66"
+        }
+      },
+      {
+        "playerName": "Valentino Livramento",
+        "over": {
+          "handicap": "1.5",
+          "odds": "1.61"
+        },
+        "under": {
+          "handicap": "1.5",
+          "odds": "2.20"
+        }
+      }
+    ]
+  }
+]

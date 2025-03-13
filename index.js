@@ -4,18 +4,17 @@
 const createSchema = require("./schema.js");
 const { connect } = require("puppeteer-real-browser");
 
-const links = [
-  "https://www.bet365.com/#/AC/B1/C1/D8/E170044339/F3/I8/",
-  "https://www.bet365.com/#/AC/B1/C1/D8/E170231829/F3/I8/",
-];
+const links = ["https://www.bet365.com/#/AC/B1/C1/D8/E170233317/F3/I8/P30255/"];
 
-const idletime = 15000; // in millisecond
+const idletime = 2500; // in millisecond
 
 async function run() {
   const { browser, page } = await connect({
+    // executablePath: process.env.CHROME_PATH || "/usr/bin/google-chrome",
     defaultViewport: null,
     headless: false,
 
+    // args: [],
     args: [],
     customConfig: {},
 
@@ -57,7 +56,7 @@ async function run() {
       await page.close();
     }
   }
-  //   await browser.cookies();
+  await browser.close();
 }
 
 run();
